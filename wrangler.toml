@@ -1,0 +1,3 @@
+name = "cloudflare-d1-example"
+main = "src/index.ts"
+compatibility_date = "2023-04-18"
